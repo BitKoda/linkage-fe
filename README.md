@@ -11,8 +11,7 @@
 
 ## About <a name="about"></a>
 
-LinkAge is An app aiming to helps connect isolated elderly individuals with volunteers, with the goal of
-combating loneliness. 
+LinkAge is an app designed to help connect isolated elderly individuals with volunteers. Volunteers make appointments via the app to visit elderly people in their neighbourhood with the sole aim of providing companionship and combating loneliness.
 
 ## Tech Stack <a name="tech-stack"></a>
 
