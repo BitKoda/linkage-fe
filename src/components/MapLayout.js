@@ -1,4 +1,4 @@
-import React, { useState, useRef } from "react";
+import React from "react";
 import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
 import LinearColor from "./LinearColor";
 import Box from "@mui/material/Box";
@@ -17,7 +17,6 @@ const MapLayout = () => {
 
   const [users, setUsers] = React.useState([]);
   const [clicked, setClicked] = React.useState(null);
-  // const [selectedCard, setSelectedCard] = React.useState(0);
 
   const configLeaflet = () => {
     delete L.Icon.Default.prototype._getIconUrl;
